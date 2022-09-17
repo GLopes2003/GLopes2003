@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hello, I’m Giovana Lopes :) 
+# Hi, I’m Giovana Lopes :) 
 <br>
 </div>
  - I am currently starting my studies on JavaScript and HTML (P.S. : Still a beginner 🙃)
