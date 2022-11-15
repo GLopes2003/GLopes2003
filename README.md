@@ -13,15 +13,17 @@
 <br>
 <div style="text-align:center">
   <p align ="center">_______________________________________________________________________________
-  </p>
+    </p>
 <br>
 <div align = "center" >
-    <img align ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align ="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-6fa8dc?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img align ="center" alt="Java" src="https://img.shields.io/badge/Java-6fa8dc?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-6fa8dc?style=for-the-badge&logo=Oracle&logoColor=white" />
+    <br>
+    <br>
+    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-6fa8dc?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-6fa8dc?style=for-the-badge&logo=mongodb&logoColor=white" />  
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-6fa8dc?style=for-the-badge&logo=html5&logoColor=white" />
 <br>
 <br>
 <div style="text-align:center">
