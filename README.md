@@ -3,7 +3,7 @@
 # Hi, I’m Giovana Lopes :) 
 <br>
 </div>
- - I am currently starting my studies on JavaScript and HTML (P.S. : Still a beginner 🙃)
+ - I am currently starting my studies on HTML, CSS and JavaScript/React (P.S. : Still a beginner 🙃)
 <br>
  - Committed and focused on improving my knowledge and skills in Java and SQL development📌
 <br>
