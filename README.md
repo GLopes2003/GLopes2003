@@ -7,7 +7,7 @@
 <br>
  - Committed and focused on improving my knowledge and skills in Java and SQL development📌
 <br>
- - My current interest/curiosity is DATABASE✨(both relational and non-relational) 
+ - My current interest/curiosity is the Front-end area but also DATABASE✨(both relational and non-relational) 
 <br>
 <br>
 <br>
