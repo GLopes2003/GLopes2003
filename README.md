@@ -4,7 +4,7 @@
 # Hi, I'm Giovana Lopes :) 
 <br>
 </div>
-<img align="right" width="350px" height="480px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<img align="right" width="320px" height="450px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 
 ° I am currently studying and focused on Front-end development 😉
 <br>
@@ -16,7 +16,7 @@
 <br>
 
   <div align = "center">
-  <img  width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glopes2003&theme=nightowl"/> 
+  <img  width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glopes2003&theme=nightowl"/> 
   </div>
   
   <br>
