@@ -4,7 +4,7 @@
 # Hi, I'm Giovana Lopes :) 
 <br>
 </div>
-<img align="right" width="320px" height="450px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<img align="right" width="318px" height="450px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 
 ° I am currently studying and focused on Front-end development 😉
 <br>
