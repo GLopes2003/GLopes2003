@@ -30,6 +30,7 @@
     <img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50px" height="50px"/>
     <img align="center" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" width="50px" height="50px"/>
     <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
+    <img align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50px" height="50px"/>
     <img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50px" height="50px"/>
     <img align="center" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50px" height="50px"/>
     <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50px" height="50px"/>
