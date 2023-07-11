@@ -24,6 +24,10 @@
   <br>
   <br>
   <br>
+  <div align = "center">
+  <h3> Interests: </h3>
+  </div>
+  <br>
 <div align = "center">
     <img align ="center" alt="VSCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50px" height="50px"/>
     <img align ="center" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" width="50px" height="50px"/>
