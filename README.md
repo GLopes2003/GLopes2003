@@ -8,7 +8,7 @@
 
 ° I am currently studying and focused on Front-end development 😉
 <br>
-° Committed on improving my knowledge and skills in Java and SQL development 📌
+° Committed on improving my knowledge and skills in back-end development and SQL development 📌
 <br>
 ° Curious about the database area (both relational and non-relational) ✨
 <br>
@@ -34,9 +34,7 @@
     <img align="center" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" width="50px" height="50px"/>
     <img align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"/>
     <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
-    <img align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50px" height="50px"/>
     <img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50px" height="50px"/>
-    <img align="center" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50px" height="50px"/>
     <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50px" height="50px"/>
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-6fa8dc?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="130px" margin-left="10px"/>
   <br>
