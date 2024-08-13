@@ -35,7 +35,7 @@
     <img align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"/>
     <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
     <img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50px" height="50px"/>
-    <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50px" height="50px"/>
+    <img align="center" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50px" height="50px"/>
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-6fa8dc?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="130px" margin-left="10px"/>
   <br>
   <br>
