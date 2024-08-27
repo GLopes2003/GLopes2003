@@ -6,11 +6,11 @@
 </div>
 <img align="right" width="318px" height="450px" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 
-° I am currently studying and focused on Front-end development 😉
+° I am currently studying and focusing on Data Science, an area that I am very curious about 😉
 <br>
-° Committed on improving my knowledge and skills in back-end development and SQL development 📌
+° Committed on improving my knowledge and skills in SQL development 📌
 <br>
-° Curious about the database area (both relational and non-relational) ✨
+° Curious about the Front-end development area ✨
 <br>
 <br>
 <br>
